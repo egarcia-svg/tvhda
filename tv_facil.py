@@ -3,7 +3,7 @@ from flask import Flask
 from flask_socketio import SocketIO
 
 app = Flask(__name__)
-socketio = SocketIO(app, cors_allowed_origins="*", max_http_buffer_size=10 * 1024 * 1024)
+socketio = SocketIO(app, cors_allowed_origins="*", max_http_buffer_size=10 * 2048 * 2048)
 
 TV_HTML = """<!DOCTYPE html><html><head><style>body{margin:0;background:#000;height:100vh;display:flex;align-items:center;justify-content:center}img{max-width:100vw;max-height:100vh;object-fit:contain}#msg{color:#fff;font-family:sans-serif;opacity:.3}</style></head><body><div id="msg">Esperando imagen...</div><img id="tv"><script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script><script>const socket=io();const img=document.getElementById('tv');const msg=document.getElementById('msg');socket.on('nueva_imagen',d=>{msg.style.display='none';img.src=d;});document.body.ondblclick=()=>document.documentElement.requestFullscreen();</script></body></html>"""
 
