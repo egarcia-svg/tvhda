@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from flask_socketio import SocketIO
 
@@ -12,3 +13,7 @@ def tv(): return TV_HTML
 def control(): return CONTROL_HTML
 @socketio.on('nueva_imagen')
 def handle_img(data): socketio.emit('nueva_imagen', data); socketio.emit('ok')
+
+if __name__ == '__main__':
+port = int(os.environ.get("PORT", 10000))
+socketio.run(app, host='0.0.0.0', port=port)
