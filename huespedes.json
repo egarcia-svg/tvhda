@@ -1,0 +1,277 @@
+{
+  "101": {
+    "nombre": "101",
+    "nombre_completo": "Habitación 101 Disponible",
+    "checkout": ""
+  },
+  "102": {
+    "nombre": "102",
+    "nombre_completo": "Habitación 102 Disponible",
+    "checkout": ""
+  },
+  "103": {
+    "nombre": "103",
+    "nombre_completo": "Habitación 103 Disponible",
+    "checkout": ""
+  },
+  "104": {
+    "nombre": "104",
+    "nombre_completo": "Habitación 104 Disponible",
+    "checkout": ""
+  },
+  "105": {
+    "nombre": "105",
+    "nombre_completo": "Habitación 105 Disponible",
+    "checkout": ""
+  },
+  "106": {
+    "nombre": "106",
+    "nombre_completo": "Habitación 106 Disponible",
+    "checkout": ""
+  },
+  "107": {
+    "nombre": "107",
+    "nombre_completo": "Habitación 107 Disponible",
+    "checkout": ""
+  },
+  "108": {
+    "nombre": "108",
+    "nombre_completo": "Habitación 108 Disponible",
+    "checkout": ""
+  },
+  "109": {
+    "nombre": "109",
+    "nombre_completo": "Habitación 109 Disponible",
+    "checkout": ""
+  },
+  "110": {
+    "nombre": "110",
+    "nombre_completo": "Habitación 110 Disponible",
+    "checkout": ""
+  },
+  "111": {
+    "nombre": "111",
+    "nombre_completo": "Habitación 111 Disponible",
+    "checkout": ""
+  },
+  "112": {
+    "nombre": "112",
+    "nombre_completo": "Habitación 112 Disponible",
+    "checkout": ""
+  },
+  "113": {
+    "nombre": "113",
+    "nombre_completo": "Habitación 113 Disponible",
+    "checkout": ""
+  },
+  "114": {
+    "nombre": "114",
+    "nombre_completo": "Habitación 114 Disponible",
+    "checkout": ""
+  },
+  "115": {
+    "nombre": "115",
+    "nombre_completo": "Habitación 115 Disponible",
+    "checkout": ""
+  },
+  "116": {
+    "nombre": "116",
+    "nombre_completo": "Habitación 116 Disponible",
+    "checkout": ""
+  },
+  "117": {
+    "nombre": "117",
+    "nombre_completo": "Habitación 117 Disponible",
+    "checkout": ""
+  },
+  "118": {
+    "nombre": "118",
+    "nombre_completo": "Habitación 118 Disponible",
+    "checkout": ""
+  },
+  "119": {
+    "nombre": "119",
+    "nombre_completo": "Habitación 119 Disponible",
+    "checkout": ""
+  },
+  "120": {
+    "nombre": "120",
+    "nombre_completo": "Habitación 120 Disponible",
+    "checkout": ""
+  },
+  "201": {
+    "nombre": "201",
+    "nombre_completo": "Habitación 201 Disponible",
+    "checkout": ""
+  },
+  "202": {
+    "nombre": "202",
+    "nombre_completo": "Habitación 202 Disponible",
+    "checkout": ""
+  },
+  "203": {
+    "nombre": "203",
+    "nombre_completo": "Habitación 203 Disponible",
+    "checkout": ""
+  },
+  "204": {
+    "nombre": "204",
+    "nombre_completo": "Habitación 204 Disponible",
+    "checkout": ""
+  },
+  "205": {
+    "nombre": "205",
+    "nombre_completo": "Habitación 205 Disponible",
+    "checkout": ""
+  },
+  "206": {
+    "nombre": "206",
+    "nombre_completo": "Habitación 206 Disponible",
+    "checkout": ""
+  },
+  "207": {
+    "nombre": "207",
+    "nombre_completo": "Habitación 207 Disponible",
+    "checkout": ""
+  },
+  "208": {
+    "nombre": "208",
+    "nombre_completo": "Habitación 208 Disponible",
+    "checkout": ""
+  },
+  "209": {
+    "nombre": "209",
+    "nombre_completo": "Habitación 209 Disponible",
+    "checkout": ""
+  },
+  "210": {
+    "nombre": "210",
+    "nombre_completo": "Habitación 210 Disponible",
+    "checkout": ""
+  },
+  "211": {
+    "nombre": "211",
+    "nombre_completo": "Habitación 211 Disponible",
+    "checkout": ""
+  },
+  "212": {
+    "nombre": "212",
+    "nombre_completo": "Habitación 212 Disponible",
+    "checkout": ""
+  },
+  "213": {
+    "nombre": "213",
+    "nombre_completo": "Habitación 213 Disponible",
+    "checkout": ""
+  },
+  "214": {
+    "nombre": "214",
+    "nombre_completo": "Habitación 214 Disponible",
+    "checkout": ""
+  },
+  "215": {
+    "nombre": "215",
+    "nombre_completo": "Habitación 215 Disponible",
+    "checkout": ""
+  },
+  "301": {
+    "nombre": "301",
+    "nombre_completo": "Habitación 301 Disponible",
+    "checkout": ""
+  },
+  "302": {
+    "nombre": "302",
+    "nombre_completo": "Habitación 302 Disponible",
+    "checkout": ""
+  },
+  "303": {
+    "nombre": "303",
+    "nombre_completo": "Habitación 303 Disponible",
+    "checkout": ""
+  },
+  "304": {
+    "nombre": "304",
+    "nombre_completo": "Habitación 304 Disponible",
+    "checkout": ""
+  },
+  "305": {
+    "nombre": "305",
+    "nombre_completo": "Habitación 305 Disponible",
+    "checkout": ""
+  },
+  "306": {
+    "nombre": "306",
+    "nombre_completo": "Habitación 306 Disponible",
+    "checkout": ""
+  },
+  "307": {
+    "nombre": "307",
+    "nombre_completo": "Habitación 307 Disponible",
+    "checkout": ""
+  },
+  "308": {
+    "nombre": "308",
+    "nombre_completo": "Habitación 308 Disponible",
+    "checkout": ""
+  },
+  "309": {
+    "nombre": "309",
+    "nombre_completo": "Habitación 309 Disponible",
+    "checkout": ""
+  },
+  "310": {
+    "nombre": "310",
+    "nombre_completo": "Habitación 310 Disponible",
+    "checkout": ""
+  },
+  "311": {
+    "nombre": "311",
+    "nombre_completo": "Habitación 311 Disponible",
+    "checkout": ""
+  },
+  "312": {
+    "nombre": "312",
+    "nombre_completo": "Habitación 312 Disponible",
+    "checkout": ""
+  },
+  "313": {
+    "nombre": "313",
+    "nombre_completo": "Habitación 313 Disponible",
+    "checkout": ""
+  },
+  "314": {
+    "nombre": "314",
+    "nombre_completo": "Habitación 314 Disponible",
+    "checkout": ""
+  },
+  "315": {
+    "nombre": "315",
+    "nombre_completo": "Habitación 315 Disponible",
+    "checkout": ""
+  },
+  "401": {
+    "nombre": "Suite",
+    "nombre_completo": "Suite Presidencial Disponible",
+    "checkout": ""
+  },
+  "402": {
+    "nombre": "Suite",
+    "nombre_completo": "Suite Familiar Disponible",
+    "checkout": ""
+  },
+  "403": {
+    "nombre": "Master",
+    "nombre_completo": "Master Suite Disponible",
+    "checkout": ""
+  },
+  "404": {
+    "nombre": "Villa",
+    "nombre_completo": "Villa Hacienda Disponible",
+    "checkout": ""
+  },
+  "405": {
+    "nombre": "Cortés",
+    "nombre_completo": "Casa Cortés Disponible",
+    "checkout": ""
+  }
+}
